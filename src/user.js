@@ -3,4 +3,8 @@ class User{
         this.id = id;
         this.name = name;
     }
+
+    renderUser() {
+        debugger
+    }
 }
